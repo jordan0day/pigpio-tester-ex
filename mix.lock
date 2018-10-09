@@ -1,0 +1,3 @@
+%{
+  "pigpiox": {:git, "https://github.com/jordan0day/pigpiox", "abce6c3e25b32465389dfa5c11206c752752fc96", [branch: "my-branch"]},
+}
